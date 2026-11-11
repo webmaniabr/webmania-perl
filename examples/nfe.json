@@ -1,0 +1,42 @@
+{
+  "modelo": "1",
+  "operacao": 1,
+  "natureza_operacao": "Synthetic sale",
+  "finalidade": 1,
+  "ambiente": 2,
+  "cliente": {
+    "cpf": "000.000.000-00",
+    "nome_completo": "Synthetic person",
+    "endereco": "Synthetic street",
+    "numero": "1",
+    "bairro": "Synthetic district",
+    "cidade": "Synthetic city",
+    "uf": "SP",
+    "cep": "01001-000"
+  },
+  "produtos": [
+    {
+      "nome": "Synthetic item",
+      "codigo": "0001",
+      "ncm": "0000.00.00",
+      "quantidade": "1.0000",
+      "unidade": "UN",
+      "subtotal": "0.10",
+      "total": "0.10",
+      "origem": 0,
+      "impostos": {
+        "icms": {
+          "codigo_cfop": "5102",
+          "situacao_tributaria": "102"
+        }
+      }
+    }
+  ],
+  "pedido": {
+    "presenca": 1,
+    "modalidade_frete": 9,
+    "pagamento": 0,
+    "forma_pagamento": "01",
+    "valor_pagamento": "0.10"
+  }
+}

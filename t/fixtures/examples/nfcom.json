@@ -1,0 +1,42 @@
+{
+  "ambiente": 2,
+  "natureza_operacao": "Synthetic communication",
+  "tipo_operacao": 1,
+  "finalidade": 1,
+  "tipo_faturamento": 0,
+  "cliente": {
+    "cnpj": "00000000000000",
+    "razao_social": "Synthetic company",
+    "indicador_ie": 9,
+    "endereco": {
+      "logradouro": "Synthetic street",
+      "numero": "001",
+      "bairro": "Synthetic",
+      "codigo_municipio": "3550308",
+      "municipio": "Synthetic municipality",
+      "uf": "SP",
+      "cep": "00000000"
+    }
+  },
+  "assinante": {
+    "codigo": "SYNTHETIC",
+    "tipo": 1,
+    "tipo_servico": 4,
+    "contrato": {
+      "numero": "SYNTHETIC",
+      "data_inicio": "2026-01-01",
+      "data_fim": "2026-12-31"
+    }
+  },
+  "itens": [
+    {
+      "descricao": "Synthetic communication service",
+      "unidade": "MES",
+      "quantidade": "1.0000",
+      "valor_unitario": "99.90",
+      "valor_total": "99.90",
+      "indicador_total": 1,
+      "classe_imposto": "REF123456"
+    }
+  ]
+}

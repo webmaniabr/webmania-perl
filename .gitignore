@@ -1,0 +1,11 @@
+/Makefile
+/MYMETA.*
+/blib/
+/pm_to_blib
+/Webmania-*/
+/Webmania-*.tar.gz
+/local/
+
+# macOS metadata
+.DS_Store
+._*

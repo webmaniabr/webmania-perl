@@ -1,0 +1,12 @@
+{
+  "ambiente": 2,
+  "rps": [
+    {
+      "servico": {
+        "discriminacao": "Synthetic service",
+        "valor_servicos": "100.00",
+        "iss_retido": 2
+      }
+    }
+  ]
+}

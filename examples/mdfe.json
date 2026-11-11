@@ -1,0 +1,26 @@
+{
+  "ambiente": 2,
+  "carregamento": [
+    {
+      "nome_municipio": "synthetic"
+    }
+  ],
+  "descarregamento": [
+    {
+      "documentos_fiscais": [
+        {
+          "chave": "00000000000000000000000000000000000000000000"
+        }
+      ],
+      "nome_municipio": "synthetic"
+    }
+  ],
+  "emitente": "1",
+  "modalidade": "1",
+  "peso_bruto": "synthetic",
+  "uf_carregamento": "synthetic",
+  "uf_descarregamento": "synthetic",
+  "unidade": "01",
+  "valor_carga": "synthetic",
+  "rodoviario": {}
+}

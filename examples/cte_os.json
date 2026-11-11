@@ -1,0 +1,56 @@
+{
+  "ambiente": 2,
+  "modelo": "cte_os",
+  "natureza_operacao": "Synthetic passenger transport",
+  "modalidade": 1,
+  "finalidade": "0",
+  "contribuicao_tomador": 9,
+  "indicador_tomador": 4,
+  "local_inicio_prestacao": {
+    "cidade": "Synthetic origin",
+    "uf": "SP"
+  },
+  "local_termino_prestacao": {
+    "cidade": "Synthetic destination",
+    "uf": "RJ"
+  },
+  "tomador": {
+    "cnpj": "00000000000000",
+    "nome_razao": "Synthetic company",
+    "endereco": "Synthetic street",
+    "numero": "001",
+    "bairro": "Synthetic",
+    "cidade": "Synthetic city",
+    "uf": "SP"
+  },
+  "servico": {
+    "tipo": 6,
+    "descricao": "Synthetic passenger transport",
+    "valor_total": "100.00",
+    "valor_recebido": "100.00"
+  },
+  "carga": {
+    "produto_predominante": "Synthetic service",
+    "valor_total": "100.00",
+    "quantidades": [
+      {
+        "quantidade": "1.0000"
+      }
+    ]
+  },
+  "impostos": {
+    "cfop": "6353",
+    "classificacao_tributaria": "SN"
+  },
+  "documentos_fiscais": [
+    {
+      "numero": "001",
+      "data_emissao": "2026-01-01",
+      "valor_documento": "100.00"
+    }
+  ],
+  "rodoviario": {
+    "taf_cte_os": "000000000000",
+    "tipo_fretamento": "2"
+  }
+}
